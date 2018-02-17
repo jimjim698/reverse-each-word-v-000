@@ -4,5 +4,5 @@ array = string.split
 word << array.each do |position|
   puts "#{position.reverse}"
   end
-  puts "#{word}"
+  return "#{word}"
 end
