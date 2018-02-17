@@ -6,5 +6,3 @@ array.each do |position|
   end
   new_array.join(" ")
 end
-
-
