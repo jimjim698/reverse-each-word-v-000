@@ -4,7 +4,7 @@ array = string.split
 new_array << array.each do |position|
   "#{position.reverse}"
   end
-  new_array.to_s
+  new_array.join
 end
 
   
