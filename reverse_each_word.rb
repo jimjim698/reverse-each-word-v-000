@@ -6,5 +6,3 @@ new_array << array.each do |position|
   end
   new_array.join
 end
-
-  
